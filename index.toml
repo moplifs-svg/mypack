@@ -1,6 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "mods/axiom-5-4-2-for-mc1-20-1.pw.toml"
-hash = "515a9a06d993f8d5e0e121755f2d57d3e5bba907eae41276a76557a58493993f"
-metafile = true
