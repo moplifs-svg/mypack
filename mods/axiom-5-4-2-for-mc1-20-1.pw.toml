@@ -1,8 +1,0 @@
-name = "Axiom-5.4.2-for-MC1.20.1"
-filename = "Axiom-5.4.2-for-MC1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/moplifs-svg/mypack/files/Axiom-5.4.2-for-MC1.20.1.jar"
-hash-format = "sha256"
-hash = "e54ca8ea6e74c0ba2840199b1b12eff2ad564d74c1239f155dcfec74e61792e9"
